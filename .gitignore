@@ -1,0 +1,6 @@
+# Compiled Prolog files and editor/OS temporary files
+*.qlf
+*.swp
+*~
+.DS_Store
+Thumbs.db
